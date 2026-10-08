@@ -1,66 +1,62 @@
-<!-- Responsive Centered Image -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Profile Animation" style="width: 80%; max-width: 599px; height: auto;" />
-</p>
+# Hi, I'm Atif Asif 👋
 
-# About Me
+**Senior Full-Stack Developer** · 4+ years building production web & mobile apps · Based in Pakistan
 
-👋 **Hello! I'm Atif Asif**
+I build fast, scalable products with **React Native, Next.js, Node.js and TypeScript**, from the mobile UI to the API and the cloud deployment. I also integrate **AI (Claude / LLM APIs)** into real products.
 
-🚀 **MERN Stack Developer** with a passion for building modern, scalable, and user-friendly web and mobile applications. I specialize in the latest technologies including **React Native, React.js, Next.js, Node.js, TypeScript and JavaScript**.
+Currently working at **Enigmatix (Pvt) Ltd** and available for freelance projects on **Upwork**.
 
-💼 **What I Do:**
-- Design and develop high-performance web and mobile applications using **React Native** for mobile and **React/Next.js** for web.
-- Build scalable backends and RESTful APIs with **Node.js** and MongoDB.
-- Create visually appealing and responsive designs with **Tailwind CSS**.
-- Write clean, maintainable code and follow best practices with **TypeScript**.
-
-🌱 **Skills & Technologies:**
-- **Frontend:** React, React Native, Next.js, Tailwind CSS, JavaScript, TypeScript
-- **Backend:** Node.js, Express.js, MongoDB
-- **Other Tools:** Git, Redux, REST APIs, Agile Development,AWS deployment, Digital ocean deployment.
-
-👯 **I'm looking to collaborate on:**  
-Exciting projects in web and mobile development, especially ones that involve innovative UI/UX, complex functionalities, or cutting-edge technology.
-
-📚 **Currently Learning:**  
-Deepening my expertise in backend architectures and exploring serverless and cloud-based solutions.
-
-💬 **Ask me about:**  
-React, React Native, Next.js, JavaScript, Node.js, or any questions on MERN stack development and best practices.
-
-⚡ **Fun fact:**  
-I'm always on the lookout for new tech trends, and I enjoy optimizing code for better performance and readability!
-## 🔭 What I've learned and currently improving
-<div>
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" />
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" />
-   <img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React JS logo" title="React JS" height="30" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="30" />
-  <img src="https://img.shields.io/badge/React%20Native-v0.74-blue?logo=react" alt="React Native logo" title="React Native" height="30" />
-  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript logo" title="typescript" height="30" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white" alt="React Query logo" title="React Query" height="30" />
-  <img src="https://img.shields.io/badge/Node.js-v14.17.0-green?logo=node.js" alt="Node JS logo" title="Node JS" height="30" />
-  <img src="https://img.shields.io/badge/Express-v4.17.1-blue?logo=express" alt="Node JS logo" title="Node JS" height="30" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="30" />
-<img src="https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white" alt="MobX logo" title="MobX" height="30" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="30" />
-
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Redux logo" title="Redux" height="30" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab logo" title="GitLab" height="30" />
-  <img src="https://img.shields.io/badge/ClickUp-7C3AED?logo=clickup&logoColor=white" alt="ClickUp logo" title="ClickUp" height="30" />
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
-</div>
-
-## Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtifAsif3470/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-asif/)
-
-📧 **Email:** [atifasif3301@gmail.com](mailto:atifasif3301@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifasif3301@gmail.com)
 
 ---
 
-*Crafted with ❤️ by Atif Asif*
+## What I do
+
+- 📱 **Mobile apps**: cross-platform apps with React Native (ordering apps, dashboards, real-time features)
+- 🌐 **Web apps**: Next.js / React frontends with TypeScript, React Query, Redux Toolkit and MobX
+- ⚙️ **Backends & APIs**: Node.js, Express, MongoDB, REST APIs
+- 🤖 **AI integration**: adding Claude / LLM-powered features to existing products
+- ☁️ **Deployment**: AWS and DigitalOcean, CI/CD with Git
+
+## Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+## Featured projects
+
+> Most of my professional work is under NDA, so these are public examples. Each one has a README with setup steps.
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [Micro_Frontend](https://github.com/AtifAsif3470/Micro_Frontend) | Micro-frontend architecture with independently deployed modules | JavaScript |
+| [luigi_multirepo](https://github.com/AtifAsif3470/luigi_multirepo) | Multi-repo setup with a shared shell | JavaScript |
+| [Mobx_Todo](https://github.com/AtifAsif3470/Mobx_Todo) | State management with MobX | JavaScript |
+| [CRUD_APP](https://github.com/AtifAsif3470/CRUD_APP) | Full CRUD flow with API integration | JavaScript |
+
+*(More projects coming: React Native app, Next.js app, Claude-powered tool.)*
+
+## Currently
+
+- 🔨 Building production apps at Enigmatix
+- 📚 Going deeper into backend architecture, serverless and cloud
+- 🤝 Open to freelance work: web apps, mobile apps, AI integrations
+
+## Let's work together
+
+Need a React Native app, a Next.js web product, or an AI feature added to your platform? Message me on **[LinkedIn](https://www.linkedin.com/in/atif-asif/)** or **[email me](mailto:atifasif3301@gmail.com)**.
