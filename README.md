@@ -1,4 +1,12 @@
-# Hi, I'm Atif Asif 👋
+<div align="center">
+
+<img alt="Atif Asif, Senior Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Atif%20Asif&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer&descAlignY=58&descSize=22" />
+
+<a href="https://github.com/AtifAsif3470">
+  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=React+Native+%C2%B7+Next.js+%C2%B7+Node.js;TypeScript+%C2%B7+MongoDB+%C2%B7+AWS;AI+and+Claude+API+integrations;Open+for+freelance+projects" />
+</a>
+
+</div>
 
 **Senior Full-Stack Developer** · 4+ years building production web & mobile apps · Based in Pakistan
 
@@ -60,3 +68,9 @@ Currently working at **Enigmatix (Pvt) Ltd** and available for freelance project
 ## Let's work together
 
 Need a React Native app, a Next.js web product, or an AI feature added to your platform? Message me on **[LinkedIn](https://www.linkedin.com/in/atif-asif/)** or **[email me](mailto:atifasif3301@gmail.com)**.
+
+<div align="center">
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
